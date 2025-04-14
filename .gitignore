@@ -1,0 +1,6 @@
+# Ignore folders
+data/
+temp/
+# Ignore all .csv and .log files
+*.csv
+*.log
